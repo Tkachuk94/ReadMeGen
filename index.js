@@ -85,10 +85,10 @@ const questions = () => {
     ${license}
 ## Questions
 *If you have any questions or recommendations please reach out to me at:
-## github
+# github
 https://github.com/${github} 
-## email
-email: < a href="mailto:${email}">${email}< /a>.
+# email
+${email}
     `;
 
 
