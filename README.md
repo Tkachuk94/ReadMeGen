@@ -19,22 +19,27 @@ This project was developed to assist in the production of ReadME files
 ## Installation
 
 _How to install and run:_
+<br>
 The users will start by cloning files from my repo on github and running NPM install --save to install inquierer
 
 ## Usage
 
 _How to use ReadMe Generator:_
+<br>
 By running Node ./index.js in their own terminals and answering the questions. The readME will automatically be generatoed after all questions have een completed.
 
 ## Contributing
 
 _If you would like to contribute it, you can follow these guidelines for how to do so._
+<br>
 Others can contribbute to the project by recommending any further questions or something they would like to see within the generator!
 
 ## Tests
 
 _Tests for application and how to run them:_
+<br>
 After cloning from my repository and running NPM install --save they can answer all the questions to produce their own readmes for any and all of their own projects!
+<br>
 [Demo Video!](https://www.youtube.com/watch?v=NzONWTrZRrQ)
 
 ## License
@@ -44,5 +49,7 @@ After cloning from my repository and running NPM install --save they can answer 
 ## Questions
 
 \*If you have any questions or recommendations please reach out to me at:
+<br>
 Github: https://github.com/Tkachuk94
+<br>
 Email : Tkachuk753@gmail.com

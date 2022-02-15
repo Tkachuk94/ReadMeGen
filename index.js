@@ -70,16 +70,21 @@ const questions = () => {
 * [Email](#email)
 ## Installation
 *How to install and run:*
+<br>
     ${install}
 ## Usage 
-*How to use ${title}:*
+  *How to use ${title}:*
+<br>
   ${use}
 ## Contributing
   *If you would like to contribute it, you can follow these guidelines for how to do so.*
+<br>
   ${contribute}
 ## Tests
   *Tests for application and how to run them:*
+<br>
   ${tests}
+  <br>
  [Demo Video!](https://www.youtube.com/watch?v=NzONWTrZRrQ)
 ## License
     ${license}
