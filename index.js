@@ -58,6 +58,7 @@ const questions = () => {
     ({title, desc, install, use, license, contribute, tests, github, email,}) => `# ${title}
 ## Description 
 *What is this project for:* 
+<br>
   ${desc}
 ## Table of Contents
 * [install](#installation)
