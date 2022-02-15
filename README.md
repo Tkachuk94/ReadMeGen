@@ -45,10 +45,10 @@ After cloning from my repository and running NPM install --save they can answer 
 
 \*If you have any questions or recommendations please reach out to me at:
 
-## Github
+# Github
 
 https://github.com/Tkachuk94
 
-## Email
+# Email
 
-email: < a href="mailto:Tkachuk753@gmail.com">Tkachuk753@gmail.com< /a>
+email: Tkachuk753@gmail.com
