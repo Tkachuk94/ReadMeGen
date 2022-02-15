@@ -56,35 +56,35 @@ const questions = () => {
 // TODO: Create a function to write README file
     const generateREADME = 
     ({title, desc, install, use, license, contribute, tests, github, email,}) => `# ${title}
-    ## Description 
-    *What is this project for:* 
-    ${desc}
-    ## Table of Contents
-     * [install](#installation)
-     * [Usage](#usage)
-     * [License](#license)
-     * [Contributing](#contributing)
-     * [Tests](#Tests)  
-     * [Questions](#Questions)
-     * [Github](#github)
-     * [Email](#email)
-    ## Installation
-    *How to install and run:*
+## Description 
+*What is this project for:* 
+  ${desc}
+## Table of Contents
+* [install](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#Tests)  
+* [Questions](#Questions)
+* [Github](#github)
+* [Email](#email)
+## Installation
+*How to install and run:*
     ${install}
-    ## Usage 
-    *How to use ${title}:*
-    ${use}
-    ## Contributing
-    *If you would like to contribute it, you can follow these guidelines for how to do so.*
-    ${contribute}
-    ## Tests
-    *Tests for application and how to run them:*
-    ${tests}
-    [Demo Video!](https://www.youtube.com/watch?v=NzONWTrZRrQ)
-    ## License
+## Usage 
+*How to use ${title}:*
+  ${use}
+## Contributing
+  *If you would like to contribute it, you can follow these guidelines for how to do so.*
+  ${contribute}
+## Tests
+  *Tests for application and how to run them:*
+  ${tests}
+ [Demo Video!](https://www.youtube.com/watch?v=NzONWTrZRrQ)
+## License
     ${license}
-    ## Questions
-    *If you have any questions or recommendations please reach out to me at https://github.com/${github} or email: ${email}.
+## Questions
+*If you have any questions or recommendations please reach out to me at https://github.com/${github} or email: ${email}.
     `;
 
 
