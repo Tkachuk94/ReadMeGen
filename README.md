@@ -7,14 +7,14 @@ This project was developed to assist in the production of ReadME files
 
 ## Table of Contents
 
-     * [install](#installation)
-     * [Usage](#usage)
-     * [License](#license)
-     * [Contributing](#contributing)
-     * [Tests](#Tests)
-     * [Questions](#Questions)
-     * [Github](#github)
-     * [Email](#email)
+- [install](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
+- [Github](#github)
+- [Email](#email)
 
 ## Installation
 
@@ -43,4 +43,12 @@ After cloning from my repository and running NPM install --save they can answer 
 
 ## Questions
 
-\*If you have any questions or recommendations please reach out to me at https://github.com/Tkachuk94 or email: Tkachuk753@gmail.com.
+\*If you have any questions or recommendations please reach out to me at:
+
+## Github
+
+https://github.com/Tkachuk94
+
+## Email
+
+email: < a href="mailto:Tkachuk753@gmail.com">Tkachuk753@gmail.com< /a>
