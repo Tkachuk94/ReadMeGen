@@ -44,11 +44,5 @@ After cloning from my repository and running NPM install --save they can answer 
 ## Questions
 
 \*If you have any questions or recommendations please reach out to me at:
-
-# Github
-
-https://github.com/Tkachuk94
-
-# Email
-
-email: Tkachuk753@gmail.com
+Github: https://github.com/Tkachuk94
+Email : Tkachuk753@gmail.com
